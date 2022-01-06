@@ -1,0 +1,66 @@
+#navbarTogglerDemo03{
+    justify-content: center;
+}
+#btn1{
+    border-radius: 16%;
+    background-color: orange;
+    color: white;
+}
+#main_image{
+    border-radius: 50%;
+    max-width: 450px;
+    height:450px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-color: black;
+}
+#sub1{
+    display:block;
+    margin-top: 100px;
+    margin-left: 360px; 
+    border-radius: 16%;
+}
+#sub2{
+    display:block;
+    margin-top: 100px;
+    margin-left: 220px; 
+}
+#sub3{
+    display:block;
+    margin-top: 100px;
+    margin-left: 350px; 
+}
+#sub4{
+    display:block;
+    margin-top: -370px;
+    margin-left: 900px; 
+}
+#sub5{
+    display:block;
+    margin-top: 90px;
+    margin-left: 1000px; 
+}
+#sub6{
+    display:block;
+    margin-top: 110px;
+    margin-left: 950px; 
+}
+#text1,#text2{
+    text-align: center;
+}
+#background{
+    background-color: rgb(94, 221, 221);
+}
+#bt1{
+    position:absolute;
+}
+
+#text2{
+    text-align: center;
+}
+#text3{
+    text-align: center;
+    font-size: smaller;
+    color: rgb(189, 131, 25);
+}
